@@ -2,9 +2,8 @@ public class Futbol {
     public static void main(String[] args) {
 
 
-        System.out.println("Galatasarayyyy");
-
-
+        System.out.print("Galatasarayyyy");
+        System.out.println("benim biricik sevgilim");
 
     }
 }
